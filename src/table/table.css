@@ -1,19 +1,15 @@
 .table-container {
    height: 100%;
    width: 100%;
+   overflow: hidden;
 }
 
 table {
-   height: 100%;
    width: 100%;
 }
 
 thead {
-   height: 20%;
-}
-
-tbody {
-   height: 80%;
+   height: 8vh;
 }
 
 tr {
@@ -34,6 +30,6 @@ td {
 }
 
 tbody tr {
-   height: 3vh;
+   height: 5vh;
    padding: 1vh 2vw;
 }
