@@ -18,18 +18,19 @@ tr {
 
 th {
    font-weight: 300;
-   font-size: 12px;
+   font-size: 14px;
    border-bottom: 1px solid #f4f6f9;
 }
 
 td {
+   height: 4vh;
    font-weight: 200;
-   font-size: 12px;
+   font-size: 14px;
    color: rgb(151, 151, 151);
    border-bottom: 1px solid #f4f6f9;
 }
 
 tbody tr {
-   height: 5vh;
+   height: 3vh;
    padding: 1vh 2vw;
 }

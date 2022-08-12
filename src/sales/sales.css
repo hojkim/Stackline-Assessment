@@ -71,14 +71,14 @@
 }
 
 .sales-right-graph {
-   flex: 4;
+   flex: 5;
    background-color: white;
    margin: 7vh 1vw 3.5vh 0.6vw;
    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2);
 }
 
 .sales-right-table {
-   flex: 3;
+   flex: 4;
    background-color: white;
    margin: 3.5vh 1vw 2vh 0.6vw;
    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2);
