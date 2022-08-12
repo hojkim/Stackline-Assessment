@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Stackline-Assessment/static/css/main.f66db06d.css",
-    "main.js": "/Stackline-Assessment/static/js/main.93e8af69.js",
-    "static/media/graph.png": "/Stackline-Assessment/static/media/graph.fec83eb68a073b173cb6.png",
+    "main.css": "/Stackline-Assessment/static/css/main.ec23b017.css",
+    "main.js": "/Stackline-Assessment/static/js/main.f0e92945.js",
+    "static/media/graph.png": "/Stackline-Assessment/static/media/graph.ef5ebf7582e15a2613d4.png",
     "static/media/logo.svg": "/Stackline-Assessment/static/media/logo.5935081bd899ecfe02395699e768f84e.svg",
     "index.html": "/Stackline-Assessment/index.html",
-    "main.f66db06d.css.map": "/Stackline-Assessment/static/css/main.f66db06d.css.map",
-    "main.93e8af69.js.map": "/Stackline-Assessment/static/js/main.93e8af69.js.map"
+    "main.ec23b017.css.map": "/Stackline-Assessment/static/css/main.ec23b017.css.map",
+    "main.f0e92945.js.map": "/Stackline-Assessment/static/js/main.f0e92945.js.map"
   },
   "entrypoints": [
-    "static/css/main.f66db06d.css",
-    "static/js/main.93e8af69.js"
+    "static/css/main.ec23b017.css",
+    "static/js/main.f0e92945.js"
   ]
 }
