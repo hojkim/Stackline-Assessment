@@ -1,0 +1,94 @@
+.sales {
+   height: 120vh;
+   width: 100vw;
+   background-color: #f6f8fa;
+   display: flex;
+}
+
+.sales-left {
+   flex: 1;
+   background-color: #f6f8fa;
+   display: flex;
+}
+
+.sales-left-info {
+   flex: 1;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   background-color: white;
+   margin: 7vh 0.6vw 2vh 1vw;
+   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.product-img {
+   height: 150px;
+   margin-top: 2vh;
+}
+
+.product-title {
+   margin-top: 2vh;
+   margin-bottom: 0.5vh;
+   font-weight: 600;
+   color: #354860;
+   font-size: 18px;
+}
+
+.product-subtitle {
+   width: 80%;
+   margin-top: 0;
+   margin-bottom: 1.5vh;
+   text-align: center;
+   font-size: 12px;
+   font-weight: 200;
+   color: #92a5bb;
+}
+
+.product-tags {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   border-top: 1px solid #f4f6f9;
+   border-bottom: 1px solid #f4f6f9;
+   padding: 1vh 1.5vw;
+   font-size: 12px;
+}
+
+.product-tag {
+   margin: 0.5vh 0;
+   padding: 3px 10px;
+   border: 1px solid #e4eaf3;
+   border-radius: 5px;
+   text-overflow: ellipsis;
+   text-align: center;
+}
+
+.sales-right {
+   flex: 4;
+   background-color: #f6f8fa;
+   display: flex;
+   flex-direction: column;
+}
+
+.sales-right-graph {
+   flex: 4;
+   background-color: white;
+   margin: 7vh 1vw 3.5vh 0.6vw;
+   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.sales-right-table {
+   flex: 3;
+   background-color: white;
+   margin: 3.5vh 1vw 2vh 0.6vw;
+   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.graph-title {
+   margin-left: 1.5vw;
+   font-weight: 300;
+}
+
+.sales-graph-img {
+   width: 100%;
+}

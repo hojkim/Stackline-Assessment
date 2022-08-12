@@ -1,0 +1,17 @@
+.nav {
+   height: 8vh;
+   width: 100vw;
+   background-color: #072d4c;
+}
+
+.nav-logo-container {
+   height: 100%;
+   display: flex;
+   justify-content: start;
+   align-items: center;
+   margin-left: 1.5vw;
+}
+
+.nav-logo {
+   height: 25px;
+}

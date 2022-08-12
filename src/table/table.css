@@ -1,0 +1,39 @@
+.table-container {
+   height: 100%;
+   width: 100%;
+}
+
+table {
+   height: 100%;
+   width: 100%;
+}
+
+thead {
+   height: 20%;
+}
+
+tbody {
+   height: 80%;
+}
+
+tr {
+   text-align: center;
+}
+
+th {
+   font-weight: 300;
+   font-size: 12px;
+   border-bottom: 1px solid #f4f6f9;
+}
+
+td {
+   font-weight: 200;
+   font-size: 12px;
+   color: rgb(151, 151, 151);
+   border-bottom: 1px solid #f4f6f9;
+}
+
+tbody tr {
+   height: 3vh;
+   padding: 1vh 2vw;
+}

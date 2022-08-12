@@ -1,0 +1,8 @@
+// Redux Code
+import { configureStore } from "@reduxjs/toolkit";
+
+export const store = configureStore({
+   reducer: {
+      // reducer code
+   },
+});
