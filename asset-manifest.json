@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Stackline-Assessment/static/css/main.a5fb2e00.css",
+    "main.js": "/Stackline-Assessment/static/js/main.93e8af69.js",
+    "static/media/graph.png": "/Stackline-Assessment/static/media/graph.fec83eb68a073b173cb6.png",
+    "static/media/logo.svg": "/Stackline-Assessment/static/media/logo.5935081bd899ecfe02395699e768f84e.svg",
+    "index.html": "/Stackline-Assessment/index.html",
+    "main.a5fb2e00.css.map": "/Stackline-Assessment/static/css/main.a5fb2e00.css.map",
+    "main.93e8af69.js.map": "/Stackline-Assessment/static/js/main.93e8af69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5fb2e00.css",
+    "static/js/main.93e8af69.js"
+  ]
+}
